@@ -1,4 +1,4 @@
-# tic tac toe - c++
+# TIC TAC TOE - c++
 ## Local terminal based tic tac toe game
   Improvements regarding the code are more than welcome!
 
